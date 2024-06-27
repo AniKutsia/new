@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'DM Anbandidi';
+    src: url('../fonts/DMAnbandidi-Regular.eot');
+    src: url('../fonts/DMAnbandidi-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DMAnbandidi-Regular.woff2') format('woff2'),
+        url('../fonts/DMAnbandidi-Regular.woff') format('woff'),
+        url('../fonts/DMAnbandidi-Regular.ttf') format('truetype'),
+        url('../fonts/DMAnbandidi-Regular.svg#DMAnbandidi-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
